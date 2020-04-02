@@ -1,0 +1,22 @@
+{
+  "name": "cypress-auto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manjushagire21/cypress-auto.git"
+  },
+  "author": "manjusha gire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manjushagire21/cypress-auto/issues"
+  },
+  "homepage": "https://github.com/manjushagire21/cypress-auto#readme",
+  "devDependencies": {
+    "cypress": "^4.3.0"
+  }
+}
