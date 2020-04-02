@@ -18,12 +18,12 @@ cy.log('login')
 
   })
 
-  it('Add Customer', function() 
+  it('Add Customer name ', function() 
 
   {
     cy.login(' admin@yourstore.com','admin')
 
-    cy.log('Add Cutomer')
+    cy.log('Add Cutomer name')
   })
 
   it('search', function() 
